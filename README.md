@@ -1,4 +1,4 @@
-# Smart Inventory UI/UX Design
+# ISmart Smart Inventory & Expiration Tracker - UI/UX Design
 
 This repository contains the UI/UX design for the Smart Inventory and Expiration Tracker app.
 
